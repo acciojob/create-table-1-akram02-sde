@@ -1,5 +1,4 @@
-const table = document.getElementsById('sampleTable')
-let c = 2;
+
 function insert_Row() {
     //Write your code here
 	const table = document.getElementById('sampleTable');
